@@ -1,2 +1,2 @@
-I love studying software engineering
+I love software engineering
 
